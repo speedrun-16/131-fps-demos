@@ -1,0 +1,26 @@
+[
+  {
+    "demFileHash": "3c81ec03c2d5b19f86a87079cd0cfdaf93ef2cf1f3687e3b67a5e7f8824b39d8",
+    "uid": "23V0JGOKP",
+    "map": "speedrun_pool_simple",
+    "category": 2,
+    "time": 11954,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-09-14T11:59:21.000Z",
+    "zipFilename": "00011954_STEAM_0_1_926467834_20250914-115921.zip",
+    "path": "speedrun_pool_simple/00011954_STEAM_0_1_926467834_20250914-115921.zip",
+    "archivedAt": "2025-09-14T12:00:05.570Z"
+  },
+  {
+    "demFileHash": "b62839f6ef6be9cc8bf960fb12a8d28e71d5f7352285a907b6a24d4d846e3a45",
+    "uid": "F93NFGSYF",
+    "map": "speedrun_evidens",
+    "category": 2,
+    "time": 11766,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-09-14T10:05:17.000Z",
+    "zipFilename": "00011766_STEAM_0_1_796767048_20250914-100517.zip",
+    "path": "speedrun_evidens/00011766_STEAM_0_1_796767048_20250914-100517.zip",
+    "archivedAt": "2025-09-14T12:00:05.570Z"
+  }
+]
