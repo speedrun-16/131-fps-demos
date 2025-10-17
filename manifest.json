@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "d488bfc0666f3e93283c353b298baa0474088aac75229b5e4b31ccb8f25a909e",
+    "uid": "9EXZ133AH",
+    "map": "speedrun_euphoria",
+    "category": 2,
+    "time": 22899,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2025-10-17T17:01:29.000Z",
+    "zipFilename": "00022899_STEAM_0_1_926467834_20251017-170129.zip",
+    "path": "speedrun_euphoria/00022899_STEAM_0_1_926467834_20251017-170129.zip",
+    "archivedAt": "2025-10-17T18:00:00.649Z"
+  },
+  {
     "demFileHash": "dd55c440dfde9322a580d8647bb10e45c37833b4cdd1c7eef1718dcfb237fe77",
     "uid": "OKO4AE3ZP",
     "map": "deathrun_ooorgle",
