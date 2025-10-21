@@ -1,5 +1,29 @@
 [
   {
+    "demFileHash": "4e17a0aa4574c8e54b65b31e4d94bb709a51290a273b8c8d5e4845196e50c5e5",
+    "uid": "OWN05K86K",
+    "map": "de_dust",
+    "category": 2,
+    "time": 8959,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-21T14:24:12.000Z",
+    "zipFilename": "00008959_STEAM_0_1_29970948_20251021-142412.zip",
+    "path": "de_dust/00008959_STEAM_0_1_29970948_20251021-142412.zip",
+    "archivedAt": "2025-10-21T18:00:02.901Z"
+  },
+  {
+    "demFileHash": "4f1ffac04d8fc033bb081d4ce5ad454e5f800ce9490fdf4441f38e393c5262d9",
+    "uid": "RC9SE6CAO",
+    "map": "speedrun_several",
+    "category": 2,
+    "time": 10968,
+    "playerSteamId": "STEAM_0:1:29970948",
+    "timestamp": "2025-10-21T14:00:58.000Z",
+    "zipFilename": "00010968_STEAM_0_1_29970948_20251021-140058.zip",
+    "path": "speedrun_several/00010968_STEAM_0_1_29970948_20251021-140058.zip",
+    "archivedAt": "2025-10-21T18:00:02.901Z"
+  },
+  {
     "demFileHash": "d488bfc0666f3e93283c353b298baa0474088aac75229b5e4b31ccb8f25a909e",
     "uid": "9EXZ133AH",
     "map": "speedrun_euphoria",
