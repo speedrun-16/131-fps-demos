@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-09-14 |
-| [speedrun_chemical](./speedrun_chemical) | 1 | 2025-10-04 |
+| [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
 | [speedrun_error](./speedrun_error) | 2 | 2025-09-29 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-17 |
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2025-10-05 |
@@ -27,4 +27,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **16**
-- Total Demos: **21**
+- Total Demos: **22**
