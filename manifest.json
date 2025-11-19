@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ecccb96f993599711a0c6345c4519ded723cec063737abf19c5d21233b09da08",
+    "uid": "2UF2GWEL9",
+    "map": "speedrun_1000fps_battle",
+    "category": 2,
+    "time": 10000,
+    "playerSteamId": "STEAM_0:1:796767048",
+    "timestamp": "2025-11-19T17:06:49.000Z",
+    "zipFilename": "00010000_STEAM_0_1_796767048_20251119-170649.zip",
+    "path": "speedrun_1000fps_battle/00010000_STEAM_0_1_796767048_20251119-170649.zip",
+    "archivedAt": "2025-11-19T18:00:27.649Z"
+  },
+  {
     "demFileHash": "ea6b6529934d8e5f19e08e465f2e8428c6c0ef2975970c7a609eeae13a2e0d03",
     "uid": "HZDISSRMK",
     "map": "speedrun_chemical",
