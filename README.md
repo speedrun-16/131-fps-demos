@@ -23,10 +23,11 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_retro_mini](./speedrun_retro_mini) | 1 | 2025-11-28 |
 | [speedrun_runners](./speedrun_runners) | 1 | 2025-09-15 |
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
+| [speedrun_several_longer](./speedrun_several_longer) | 1 | 2025-12-02 |
 | [speedrun_sudpi](./speedrun_sudpi) | 1 | 2025-11-03 |
 
 ---
 
 ### Statistics
-- Total Maps: **18**
-- Total Demos: **25**
+- Total Maps: **19**
+- Total Demos: **26**
