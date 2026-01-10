@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "24c0c6b6c11facfe9c48b3bdc396a406d73347100d45c818257ced4b228b4c60",
+    "uid": "D2PG6F7H4",
+    "map": "deathrun_forest",
+    "category": 2,
+    "time": 24459,
+    "playerSteamId": "STEAM_0:1:926467834",
+    "timestamp": "2026-01-09T20:29:45.000Z",
+    "zipFilename": "00024459_STEAM_0_1_926467834_20260109-202945.zip",
+    "path": "deathrun_forest/00024459_STEAM_0_1_926467834_20260109-202945.zip",
+    "archivedAt": "2026-01-10T00:00:00.600Z"
+  },
+  {
     "demFileHash": "2f95c0127d7ab585a8289e25059a7d8d6efe15ea486047f57a272caddf919f47",
     "uid": "JUVYX1I58",
     "map": "speedrun_forest_maxfps",
