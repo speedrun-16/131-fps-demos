@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "fa61aa0af48ab1f39c255a28d9a50689d29363fab6de6fec8b93eced1c8a93bc",
+    "uid": "IF1IYTGW6",
+    "map": "speedrun_pryda_v2",
+    "category": 2,
+    "time": 11907,
+    "playerSteamId": "STEAM_0:0:133153190",
+    "timestamp": "2026-01-28T18:47:36.000Z",
+    "zipFilename": "00011907_STEAM_0_0_133153190_20260128-184736.zip",
+    "path": "speedrun_pryda_v2/00011907_STEAM_0_0_133153190_20260128-184736.zip",
+    "archivedAt": "2026-01-29T00:00:14.837Z"
+  },
+  {
     "demFileHash": "24c0c6b6c11facfe9c48b3bdc396a406d73347100d45c818257ced4b228b4c60",
     "uid": "D2PG6F7H4",
     "map": "deathrun_forest",
