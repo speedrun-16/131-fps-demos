@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-15 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2026-02-08 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 3 | 2025-12-13 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-03-30 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-08 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-09-14 |
@@ -25,6 +25,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_grasz_final](./speedrun_grasz_final) | 1 | 2025-09-17 |
 | [speedrun_illumination](./speedrun_illumination) | 2 | 2026-01-05 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-09-25 |
+| [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 2 | 2025-12-19 |
 | [speedrun_pryda_v2](./speedrun_pryda_v2) | 1 | 2026-01-28 |
 | [speedrun_ramp-master_ex](./speedrun_ramp-master_ex) | 1 | 2026-01-29 |
@@ -37,5 +38,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **27**
-- Total Demos: **38**
+- Total Maps: **28**
+- Total Demos: **40**
