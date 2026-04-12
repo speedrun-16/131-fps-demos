@@ -34,9 +34,10 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_several](./speedrun_several) | 1 | 2025-10-21 |
 | [speedrun_several_longer](./speedrun_several_longer) | 1 | 2025-12-02 |
 | [speedrun_sudpi](./speedrun_sudpi) | 1 | 2025-11-03 |
+| [speedrun_svet](./speedrun_svet) | 1 | 2026-04-12 |
 
 ---
 
 ### Statistics
-- Total Maps: **28**
-- Total Demos: **42**
+- Total Maps: **29**
+- Total Demos: **43**
