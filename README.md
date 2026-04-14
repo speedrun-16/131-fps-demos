@@ -11,7 +11,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-15 |
 | [deathrun_forest](./deathrun_forest) | 1 | 2026-02-08 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
-| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-03-30 |
+| [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-04-13 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-08 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-09-14 |
