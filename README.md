@@ -9,13 +9,13 @@ This repository is a structured archive for personal best demos achieved in the 
 | [de_dust](./de_dust) | 1 | 2025-10-21 |
 | [de_inferno](./de_inferno) | 1 | 2025-10-31 |
 | [deathrun_arctic](./deathrun_arctic) | 1 | 2026-02-15 |
-| [deathrun_forest](./deathrun_forest) | 1 | 2026-02-08 |
+| [deathrun_forest](./deathrun_forest) | 2 | 2026-04-16 |
 | [deathrun_ooorgle](./deathrun_ooorgle) | 1 | 2025-10-10 |
 | [speedrun_1000fps_battle](./speedrun_1000fps_battle) | 4 | 2026-04-13 |
 | [speedrun_30min](./speedrun_30min) | 2 | 2025-10-06 |
 | [speedrun_arc_maxfps](./speedrun_arc_maxfps) | 1 | 2026-01-08 |
 | [speedrun_calisto2k](./speedrun_calisto2k) | 2 | 2025-09-14 |
-| [speedrun_chemical](./speedrun_chemical) | 2 | 2025-11-13 |
+| [speedrun_chemical](./speedrun_chemical) | 3 | 2026-04-16 |
 | [speedrun_error](./speedrun_error) | 2 | 2025-09-29 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-17 |
 | [speedrun_evidens](./speedrun_evidens) | 2 | 2025-10-05 |
@@ -40,4 +40,4 @@ This repository is a structured archive for personal best demos achieved in the 
 
 ### Statistics
 - Total Maps: **29**
-- Total Demos: **43**
+- Total Demos: **45**
