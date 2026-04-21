@@ -24,6 +24,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_forest_maxfps](./speedrun_forest_maxfps) | 1 | 2026-01-09 |
 | [speedrun_grasz_final](./speedrun_grasz_final) | 3 | 2026-04-20 |
 | [speedrun_illumination](./speedrun_illumination) | 2 | 2026-01-05 |
+| [speedrun_medium](./speedrun_medium) | 1 | 2026-04-21 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-09-25 |
 | [speedrun_noob](./speedrun_noob) | 1 | 2026-03-30 |
 | [speedrun_pool_simple](./speedrun_pool_simple) | 2 | 2025-12-19 |
@@ -39,5 +40,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **29**
-- Total Demos: **45**
+- Total Maps: **30**
+- Total Demos: **46**
