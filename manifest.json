@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "6f94aaf972384077d5e414e7d341deaf7af6f2c944b1d5df8a85efd32cb7f484",
+    "uid": "BUGFOWTWB",
+    "map": "speedrun_easy_v1",
+    "category": 2,
+    "time": 14531,
+    "playerSteamId": "STEAM_0:0:631815948",
+    "timestamp": "2026-04-27T15:14:13.000Z",
+    "zipFilename": "00014531_STEAM_0_0_631815948_20260427-151413.zip",
+    "path": "speedrun_easy_v1/00014531_STEAM_0_0_631815948_20260427-151413.zip",
+    "archivedAt": "2026-04-27T18:00:13.735Z"
+  },
+  {
     "demFileHash": "4544e91a7a53b83aa39ecf9d2c650b07d8187ebe6f6dae33aa7e10cbd28961e8",
     "uid": "NV0GYADV9",
     "map": "speedrun_medium",
