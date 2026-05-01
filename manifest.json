@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "98cfcb972bb8fa2d3b913099663b27a93941deb076682465e3cb630767cfef27",
+    "uid": "4KUQ7VH73",
+    "map": "speedrun_bieber",
+    "category": 2,
+    "time": 14211,
+    "playerSteamId": "STEAM_0:0:631815948",
+    "timestamp": "2026-05-01T09:38:05.000Z",
+    "zipFilename": "00014211_STEAM_0_0_631815948_20260501-093805.zip",
+    "path": "speedrun_bieber/00014211_STEAM_0_0_631815948_20260501-093805.zip",
+    "archivedAt": "2026-05-01T12:00:08.223Z"
+  },
+  {
     "demFileHash": "6f94aaf972384077d5e414e7d341deaf7af6f2c944b1d5df8a85efd32cb7f484",
     "uid": "BUGFOWTWB",
     "map": "speedrun_easy_v1",
