@@ -1,5 +1,17 @@
 [
   {
+    "demFileHash": "ecda38da94e92acc05947714df13e6bcfbad14fdbb367aea4798cbb116fd8826",
+    "uid": "FBVIN5UWP",
+    "map": "speedrun_venem_strafeace",
+    "category": 2,
+    "time": 29586,
+    "playerSteamId": "STEAM_0:1:87291981",
+    "timestamp": "2026-05-17T11:35:22.000Z",
+    "zipFilename": "00029586_STEAM_0_1_87291981_20260517-113522.zip",
+    "path": "speedrun_venem_strafeace/00029586_STEAM_0_1_87291981_20260517-113522.zip",
+    "archivedAt": "2026-05-17T12:00:19.174Z"
+  },
+  {
     "demFileHash": "cea9d2e37ad3b9c2d775c173953e15cf2600f4bfdd05e30d3646516845b45453",
     "uid": "V1TV6IVEZ",
     "map": "speedrun_30min",
