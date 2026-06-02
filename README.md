@@ -22,6 +22,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_chemical](./speedrun_chemical) | 4 | 2026-05-13 |
 | [speedrun_deceit](./speedrun_deceit) | 1 | 2026-05-08 |
 | [speedrun_easy_v1](./speedrun_easy_v1) | 3 | 2026-05-10 |
+| [speedrun_eliterunnerz](./speedrun_eliterunnerz) | 1 | 2026-06-02 |
 | [speedrun_error](./speedrun_error) | 2 | 2026-05-17 |
 | [speedrun_euphoria](./speedrun_euphoria) | 1 | 2025-10-17 |
 | [speedrun_evidens](./speedrun_evidens) | 3 | 2026-05-10 |
@@ -32,6 +33,7 @@ This repository is a structured archive for personal best demos achieved in the 
 | [speedrun_illumination](./speedrun_illumination) | 2 | 2026-01-05 |
 | [speedrun_jeans_short](./speedrun_jeans_short) | 1 | 2026-05-17 |
 | [speedrun_medium](./speedrun_medium) | 1 | 2026-04-21 |
+| [speedrun_morzna](./speedrun_morzna) | 1 | 2026-06-02 |
 | [speedrun_mrch3ats](./speedrun_mrch3ats) | 1 | 2026-05-14 |
 | [speedrun_muhaha](./speedrun_muhaha) | 1 | 2026-05-05 |
 | [speedrun_neocist](./speedrun_neocist) | 2 | 2025-09-25 |
@@ -54,5 +56,5 @@ This repository is a structured archive for personal best demos achieved in the 
 ---
 
 ### Statistics
-- Total Maps: **44**
-- Total Demos: **70**
+- Total Maps: **46**
+- Total Demos: **72**
