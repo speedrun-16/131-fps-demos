@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_morzna",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "N906C2XNA",
+      "rid": 60244,
+      "hash": "80f73d62e79aa29a6618e43f374f8479f1a01a96e7db99a9c8a35d9a5b63dd41",
+      "t": 25304,
+      "sid": "STEAM_0:0:193002961",
+      "at": "2026-06-02T07:04:33Z",
+      "zip": "00025304_STEAM_0_0_193002961_20260602-070433.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_morzna-20260602-#N906C2XNA.analysis.json",
+          "off": 79,
+          "size": 379937
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_morzna-20260602-#N906C2XNA.dem",
+          "off": 380085,
+          "size": 229229
+        },
+        {
+          "type": "replay",
+          "name": "60244.replay.xz",
+          "off": 609359,
+          "size": 56588
+        }
+      ]
+    }
+  ]
+}

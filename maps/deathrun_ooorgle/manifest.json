@@ -1,0 +1,35 @@
+{
+  "map": "deathrun_ooorgle",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "OKO4AE3ZP",
+      "rid": 9179,
+      "hash": "dd55c440dfde9322a580d8647bb10e45c37833b4cdd1c7eef1718dcfb237fe77",
+      "t": 12628,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-10T14:58:43Z",
+      "zip": "00012628_STEAM_0_1_926467834_20251010-145843.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "deathrun_ooorgle-20251010-#OKO4AE3ZP.analysis.json",
+          "off": 80,
+          "size": 211477
+        },
+        {
+          "type": "dem",
+          "name": "deathrun_ooorgle-20251010-#OKO4AE3ZP.dem",
+          "off": 211627,
+          "size": 131071
+        },
+        {
+          "type": "replay",
+          "name": "9179.replay.xz",
+          "off": 342742,
+          "size": 29692
+        }
+      ]
+    }
+  ]
+}

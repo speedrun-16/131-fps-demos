@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_forest_maxfps",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "JUVYX1I58",
+      "rid": 25903,
+      "hash": "2f95c0127d7ab585a8289e25059a7d8d6efe15ea486047f57a272caddf919f47",
+      "t": 20466,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-09T04:58:03Z",
+      "zip": "00020466_STEAM_0_1_926467834_20260109-045803.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_forest_maxfps-20260109-#JUVYX1I58.analysis.json",
+          "off": 86,
+          "size": 308524
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_forest_maxfps-20260109-#JUVYX1I58.dem",
+          "off": 308686,
+          "size": 186743
+        },
+        {
+          "type": "replay",
+          "name": "25903.replay.xz",
+          "off": 495474,
+          "size": 45400
+        }
+      ]
+    }
+  ]
+}

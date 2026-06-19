@@ -1,0 +1,93 @@
+{
+  "map": "speedrun_grasz_final",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "VDJTC2XCK",
+      "rid": 43273,
+      "hash": "2e46fcd676e0d8e19ac5f2f9e77c4be404c4d2313339221310a7e19760835bfa",
+      "t": 14246,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2026-04-20T13:01:00Z",
+      "zip": "00014246_STEAM_0_1_771348382_20260420-130100.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_grasz_final-20260420-#VDJTC2XCK.analysis.json",
+          "off": 84,
+          "size": 207865
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_grasz_final-20260420-#VDJTC2XCK.dem",
+          "off": 208023,
+          "size": 155050
+        },
+        {
+          "type": "replay",
+          "name": "43273.replay.xz",
+          "off": 363118,
+          "size": 35120
+        }
+      ]
+    },
+    {
+      "uid": "QUMGKZ6UF",
+      "rid": 39997,
+      "hash": "e83e9d1c78b6ba4ffabff2fbce499163a09b20c6d50722f3e2fbdafb7be0c0b5",
+      "t": 14315,
+      "sid": "STEAM_0:0:631815948",
+      "at": "2026-04-10T17:29:14Z",
+      "zip": "00014315_STEAM_0_0_631815948_20260410-172914.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_grasz_final-20260410-#QUMGKZ6UF.analysis.json",
+          "off": 84,
+          "size": 240422
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_grasz_final-20260410-#QUMGKZ6UF.dem",
+          "off": 240580,
+          "size": 153112
+        },
+        {
+          "type": "replay",
+          "name": "39997.replay.xz",
+          "off": 393737,
+          "size": 34784
+        }
+      ]
+    },
+    {
+      "uid": "SE0SC7O1N",
+      "rid": 2568,
+      "hash": "ffdfc3d0d0f041a1050dd8adef015c10e90f733f03472abc844744130aa5b578",
+      "t": 14444,
+      "sid": "STEAM_0:0:24751394",
+      "at": "2025-09-17T19:28:15Z",
+      "zip": "00014444_STEAM_0_0_24751394_20250917-192815.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_grasz_final-20250917-#SE0SC7O1N.analysis.json",
+          "off": 84,
+          "size": 248036
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_grasz_final-20250917-#SE0SC7O1N.dem",
+          "off": 248194,
+          "size": 153170
+        },
+        {
+          "type": "replay",
+          "name": "2568.replay.xz",
+          "off": 401408,
+          "size": 36708
+        }
+      ]
+    }
+  ]
+}

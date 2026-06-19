@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_w00dfun",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "AREL6CLFI",
+      "rid": 48874,
+      "hash": "6e8b0dcb231a9d121842131dff50f9aa830c1eee3ee716e68cbf6badbe9718b1",
+      "t": 13088,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-05T20:18:56Z",
+      "zip": "00013088_STEAM_0_1_87291981_20260505-201856.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_w00dfun-20260505-#AREL6CLFI.analysis.json",
+          "off": 80,
+          "size": 205752
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_w00dfun-20260505-#AREL6CLFI.dem",
+          "off": 205902,
+          "size": 126355
+        },
+        {
+          "type": "replay",
+          "name": "48874.replay.xz",
+          "off": 332302,
+          "size": 31728
+        }
+      ]
+    }
+  ]
+}

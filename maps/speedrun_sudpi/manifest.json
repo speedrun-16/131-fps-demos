@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_sudpi",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "CLD4OX29F",
+      "rid": 13374,
+      "hash": "25aa0d3ac18865878bf893d11e067c16895003fbfe4363c24aef5b4f62cb6c7b",
+      "t": 12382,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-11-03T19:28:58Z",
+      "zip": "00012382_STEAM_0_1_771348382_20251103-192858.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_sudpi-20251103-#CLD4OX29F.analysis.json",
+          "off": 78,
+          "size": 196271
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_sudpi-20251103-#CLD4OX29F.dem",
+          "off": 196417,
+          "size": 125334
+        },
+        {
+          "type": "replay",
+          "name": "13374.replay.xz",
+          "off": 321796,
+          "size": 31104
+        }
+      ]
+    }
+  ]
+}

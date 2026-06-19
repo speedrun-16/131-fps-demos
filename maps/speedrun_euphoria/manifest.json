@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_euphoria",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "9EXZ133AH",
+      "rid": 9932,
+      "hash": "d488bfc0666f3e93283c353b298baa0474088aac75229b5e4b31ccb8f25a909e",
+      "t": 22899,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2025-10-17T17:01:29Z",
+      "zip": "00022899_STEAM_0_1_926467834_20251017-170129.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_euphoria-20251017-#9EXZ133AH.analysis.json",
+          "off": 81,
+          "size": 354767
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_euphoria-20251017-#9EXZ133AH.dem",
+          "off": 354919,
+          "size": 209627
+        },
+        {
+          "type": "replay",
+          "name": "9932.replay.xz",
+          "off": 564590,
+          "size": 52648
+        }
+      ]
+    }
+  ]
+}

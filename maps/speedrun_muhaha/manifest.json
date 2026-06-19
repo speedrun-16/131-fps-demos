@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_muhaha",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "TZEM5CAL7",
+      "rid": 48768,
+      "hash": "3137d175f8100b137d7aadaeccccd3d6abf5ed0eba90273dcd6a7ecaa4eb872f",
+      "t": 10592,
+      "sid": "STEAM_0:1:87291981",
+      "at": "2026-05-05T19:09:07Z",
+      "zip": "00010592_STEAM_0_1_87291981_20260505-190907.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_muhaha-20260505-#TZEM5CAL7.analysis.json",
+          "off": 79,
+          "size": 197253
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_muhaha-20260505-#TZEM5CAL7.dem",
+          "off": 197401,
+          "size": 108990
+        },
+        {
+          "type": "replay",
+          "name": "48768.replay.xz",
+          "off": 306436,
+          "size": 24612
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_retro_mini",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "SG1YXLLME",
+      "rid": 18203,
+      "hash": "da48de56fc33e9535cc6f18fc50d1f3be82d5fa24b3a7321f509d473f62145be",
+      "t": 10162,
+      "sid": "STEAM_0:1:771348382",
+      "at": "2025-11-28T17:43:42Z",
+      "zip": "00010162_STEAM_0_1_771348382_20251128-174342.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_retro_mini-20251128-#SG1YXLLME.analysis.json",
+          "off": 83,
+          "size": 182146
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_retro_mini-20251128-#SG1YXLLME.dem",
+          "off": 182302,
+          "size": 118457
+        },
+        {
+          "type": "replay",
+          "name": "18203.replay.xz",
+          "off": 300804,
+          "size": 25792
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "map": "speedrun_arc_maxfps",
+  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "runs": [
+    {
+      "uid": "FOAV8BOVY",
+      "rid": 25810,
+      "hash": "39d124937088e45194d5e93536385436f482c9a4690d04c20e952a4c4b21a699",
+      "t": 23118,
+      "sid": "STEAM_0:1:926467834",
+      "at": "2026-01-08T09:37:22Z",
+      "zip": "00023118_STEAM_0_1_926467834_20260108-093722.zip",
+      "files": [
+        {
+          "type": "analysis",
+          "name": "speedrun_arc_maxfps-20260108-#FOAV8BOVY.analysis.json",
+          "off": 83,
+          "size": 316664
+        },
+        {
+          "type": "dem",
+          "name": "speedrun_arc_maxfps-20260108-#FOAV8BOVY.dem",
+          "off": 316820,
+          "size": 204252
+        },
+        {
+          "type": "replay",
+          "name": "25810.replay.xz",
+          "off": 521117,
+          "size": 52380
+        }
+      ]
+    }
+  ]
+}
