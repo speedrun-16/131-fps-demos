@@ -1,36 +1,7 @@
 {
   "map": "speedrun_1000fps_battle",
-  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "updatedAt": "2026-06-19T20:29:06.761Z",
   "runs": [
-    {
-      "uid": "VGLZ90CIG",
-      "rid": 21907,
-      "hash": "94294b1105f3a118004494656b881087a4b4bf251ad201a15689c8f4e7356f1e",
-      "t": 9812,
-      "sid": "STEAM_0:1:796767048",
-      "at": "2025-12-13T19:25:38Z",
-      "zip": "00009812_STEAM_0_1_796767048_20251213-192538.zip",
-      "files": [
-        {
-          "type": "analysis",
-          "name": "speedrun_1000fps_battle-20251213-#VGLZ90CIG.analysis.json",
-          "off": 87,
-          "size": 173133
-        },
-        {
-          "type": "dem",
-          "name": "speedrun_1000fps_battle-20251213-#VGLZ90CIG.dem",
-          "off": 173297,
-          "size": 114394
-        },
-        {
-          "type": "replay",
-          "name": "21907.replay.xz",
-          "off": 287736,
-          "size": 23532
-        }
-      ]
-    },
     {
       "uid": "22OVDGU4O",
       "rid": 21445,

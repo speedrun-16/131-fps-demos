@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-06-19T05:47:39.708920Z",
+  "updatedAt": "2026-06-19T20:29:06.761Z",
   "maps": {
     "de_dust": {
       "n": 2,
@@ -52,8 +52,8 @@
       "manifest": "maps/deathrun_w00dfun/manifest.json"
     },
     "speedrun_1000fps_battle": {
-      "n": 5,
-      "best": 9812,
+      "n": 4,
+      "best": 9892,
       "at": "2026-06-07T13:07:27Z",
       "manifest": "maps/speedrun_1000fps_battle/manifest.json"
     },
