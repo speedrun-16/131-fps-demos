@@ -6,9 +6,9 @@ Personal best demo archive for the 131 FPS category.
 
 | Metric | Value |
 | :-- | --: |
-| Maps | 52 |
-| Archived PBs | 80 |
-| Latest Update | 2026-07-11 |
+| Maps | 53 |
+| Archived PBs | 81 |
+| Latest Update | 2026-07-13 |
 
 ## Structure
 
