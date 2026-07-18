@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-07-13T12:00:00.553Z",
+  "updatedAt": "2026-07-18T18:00:18.565Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -134,6 +134,12 @@
       "best": 17647,
       "at": "2025-09-25T12:55:28Z",
       "manifest": "maps/speedrun_neocist/manifest.json"
+    },
+    "speedrun_celerior_beta1": {
+      "n": 1,
+      "best": 19772,
+      "at": "2026-07-18T15:29:20.000Z",
+      "manifest": "maps/speedrun_celerior_beta1/manifest.json"
     },
     "speedrun_1000fps_battle": {
       "n": 5,
