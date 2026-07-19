@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-07-18T18:00:18.565Z",
+  "updatedAt": "2026-07-19T18:00:05.427Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -35,8 +35,8 @@
     },
     "speedrun_sudpi": {
       "n": 1,
-      "best": 12382,
-      "at": "2025-11-03T19:28:58Z",
+      "best": 12049,
+      "at": "2026-07-19T17:39:26.000Z",
       "manifest": "maps/speedrun_sudpi/manifest.json"
     },
     "deathrun_forest": {
@@ -104,6 +104,12 @@
       "best": 14246,
       "at": "2026-04-20T13:01:00Z",
       "manifest": "maps/speedrun_grasz_final/manifest.json"
+    },
+    "speedrun_nazwa-robocza": {
+      "n": 1,
+      "best": 11382,
+      "at": "2026-07-19T14:29:41.000Z",
+      "manifest": "maps/speedrun_nazwa-robocza/manifest.json"
     },
     "speedrun_pool_simple": {
       "n": 2,
