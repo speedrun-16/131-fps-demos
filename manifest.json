@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-07-24T18:00:11.213Z",
+  "updatedAt": "2026-07-26T00:00:10.779Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -200,6 +200,12 @@
       "best": 20466,
       "at": "2026-01-09T04:58:03Z",
       "manifest": "maps/speedrun_forest_maxfps/manifest.json"
+    },
+    "speedrun_furame": {
+      "n": 1,
+      "best": 19662,
+      "at": "2026-07-25T21:34:02.000Z",
+      "manifest": "maps/speedrun_furame/manifest.json"
     },
     "speedrun_small_white": {
       "n": 1,
