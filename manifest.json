@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-07-26T00:00:10.779Z",
+  "updatedAt": "2026-08-10T18:00:00.570Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -62,6 +62,12 @@
       "best": 10248,
       "at": "2026-05-15T18:56:03Z",
       "manifest": "maps/speedrun_outside_estonia/manifest.json"
+    },
+    "speedrun_artakey_no_ramp": {
+      "n": 1,
+      "best": 17334,
+      "at": "2026-08-10T15:57:25.000Z",
+      "manifest": "maps/speedrun_artakey_no_ramp/manifest.json"
     },
     "speedrun_venem_strafeace": {
       "n": 1,
