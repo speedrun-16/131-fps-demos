@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-08-10T18:00:00.570Z",
+  "updatedAt": "2026-08-15T12:00:03.637Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -256,9 +256,9 @@
       "manifest": "maps/speedrun_30min/manifest.json"
     },
     "de_dust": {
-      "n": 2,
+      "n": 3,
       "best": 8937,
-      "at": "2026-06-06T14:49:08Z",
+      "at": "2026-08-15T10:32:17.000Z",
       "manifest": "maps/de_dust/manifest.json"
     },
     "speedrun_pryda_v1": {
