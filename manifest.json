@@ -1,7 +1,7 @@
 {
   "category": 2,
   "categoryName": "131 FPS",
-  "updatedAt": "2026-08-15T12:00:03.637Z",
+  "updatedAt": "2026-08-20T00:00:12.732Z",
   "maps": {
     "de_inferno": {
       "n": 1,
@@ -26,6 +26,12 @@
       "best": 12583,
       "at": "2025-09-14T17:15:36Z",
       "manifest": "maps/speedrun_calisto2k/manifest.json"
+    },
+    "speedrun_coan": {
+      "n": 1,
+      "best": 25583,
+      "at": "2026-08-19T22:33:28.000Z",
+      "manifest": "maps/speedrun_coan/manifest.json"
     },
     "speedrun_pupsik": {
       "n": 1,
