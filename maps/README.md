@@ -7,8 +7,8 @@ Map-level archive directory for the 131 FPS category.
 | Metric | Value |
 | :-- | --: |
 | Maps | 58 |
-| Archived PBs | 88 |
-| Latest Update | 2026-08-19 |
+| Archived PBs | 89 |
+| Latest Update | 2026-09-20 |
 
 ## Structure
 
